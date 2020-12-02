@@ -1,0 +1,3 @@
+my_client_id='85434f2d38ba4509924f3940ec3b40ed'
+
+my_client_secret='3bb1e3237c334e95b1db5244740d2fc0'
